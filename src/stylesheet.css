@@ -3,14 +3,14 @@
     font-size: 14px;
     font-weight: bold;
     direction: rtl;
-    color: -st-accent-fg-color; /* ? Using system accent foreground color */
+    color: -st-accent-bg-color; /* ? Using system accent foreground color */
 }
 
 .athan-label {
-    color: -st-accent-fg-color; /* ? Using system accent foreground color */
+    color: -st-accent-bg-color; /* ? Using system accent foreground color */
 }
 
 .prefs_s_action:hover {
-    color: -st-accent-fg-color; /* ? Using system accent foreground color */
+    color: -st-accent-bg-color; /* ? Using system accent foreground color */
     border: none;
 }
